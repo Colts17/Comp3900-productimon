@@ -1,4 +1,4 @@
-This developed for the final capstone project course Comp 3900.
+This was developed for the final capstone project course Comp 3900.
 
 <img src="images/productimon.png" width="150">
 
